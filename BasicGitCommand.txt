@@ -1,1 +1,4 @@
 Basic Git command 
+
+use add command 
+ -- git add 
