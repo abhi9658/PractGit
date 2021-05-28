@@ -2,3 +2,5 @@ Basic Git command
 
 use add command 
  -- git add 
+after commit --- git commit -m " msg from usr"
+for check push command --- git push origin 
